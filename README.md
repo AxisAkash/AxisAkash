@@ -2,7 +2,7 @@
 
 Software Engineer · Mobile Developer · AI Enthusiast
 
-building reliable software for mobile, web, and beyond
+building production software for mobile, web, and beyond
 
 <a href="https://axisakash.github.io/My_Portfolio/#home">portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/rakibul-islam-akash-2a0054347/">linkedin</a> &nbsp;·&nbsp; <a href="https://github.com/AxisAkash">github</a> &nbsp;·&nbsp; <a href="mailto:rakibulislamakash40@gmail.com">email</a>
 
@@ -10,16 +10,17 @@ building reliable software for mobile, web, and beyond
 
 ## about
 
-CS student at AIUB who builds production mobile apps with React Native and Expo. I work across the full stack with PHP backends and explore AI/ML applications in mobile. I care about clean architecture, reliable code, and software that ships.
+CS student at AIUB. I build production mobile apps with React Native and Expo, work across the full stack with PHP backends, and explore AI/ML applications. I care about clean architecture, reliable code, and software that ships.
 
 ---
 
 ## currently
 
-**building** — OfflineFinanceManager, a local-first finance tracker for Bangladesh  
-**learning** — machine learning integration and production mobile architecture  
-**exploring** — cloud services, backend engineering, and open-source contribution  
-**researching** — practical AI applications for mobile platforms  
+| 🚀 **building** | 📱 **mobile** |
+|---|---|
+| OfflineFinanceManager — local-first finance for Bangladesh | React Native apps with Expo, SQLite, biometric auth |
+| 🤖 **AI & ML** | 📚 **learning** |
+| Exploring practical AI integration for mobile platforms | Cloud architecture, backend engineering, open source |
 
 ---
 
@@ -27,7 +28,7 @@ CS student at AIUB who builds production mobile apps with React Native and Expo.
 
 ### Car Rent Management
 
-Full-featured PHP MVC platform for vehicle rentals. Admin and user roles, car CRUD, order/invoice/payment processing, blog module, and Chart.js analytics dashboard.
+Full-featured PHP MVC platform for vehicle rentals with admin and user dashboards, car CRUD, order/invoice/payment processing, blog module, and Chart.js analytics.
 
 `php` `mysql` `javascript` `chart.js`
 
@@ -35,7 +36,7 @@ Full-featured PHP MVC platform for vehicle rentals. Admin and user roles, car CR
 
 ### OfflineFinanceManager
 
-React Native + Expo finance app with biometric auth, transaction management, push notifications, and offline SQLite storage. Designed for markets with unreliable internet.
+React Native + Expo finance app with biometric authentication, transaction management, push notifications, and offline SQLite storage. Designed for unreliable connectivity.
 
 `react native` `expo` `typescript` `sqlite`
 
@@ -43,7 +44,7 @@ React Native + Expo finance app with biometric auth, transaction management, pus
 
 ### Portfolio
 
-Responsive SPA portfolio built with React, Vite, TypeScript, Tailwind CSS, and shadcn/ui. Features dark/light mode, animated transitions, and data visualization with Recharts.
+Responsive SPA with dark/light mode, animated transitions, and data visualization. Built with React, Vite, TypeScript, Tailwind CSS, shadcn/ui, and Framer Motion.
 
 `react` `vite` `typescript` `tailwind` `shadcn/ui` `framer motion`
 
@@ -51,7 +52,7 @@ Responsive SPA portfolio built with React, Vite, TypeScript, Tailwind CSS, and s
 
 ### Digital Currency Converter
 
-PWA with live exchange rate conversion, offline service worker support, conversion history tracking, CSV export, and glassmorphic UI — all vanilla JavaScript.
+PWA with live exchange rates, offline service worker support, conversion history, CSV export, and glassmorphic UI — all vanilla JavaScript, zero frameworks.
 
 `javascript` `html` `css` `pwa`
 
@@ -59,7 +60,7 @@ PWA with live exchange rate conversion, offline service worker support, conversi
 
 ### Ai Calculator
 
-Multi-mode PWA calculator combining standard, scientific, unit conversion, and AI-assisted problem solving with step-by-step solutions and Chart.js integration.
+Multi-mode PWA calculator merging standard, scientific, unit conversion, and AI-assisted solving with step-by-step solutions and Chart.js integration.
 
 `javascript` `html` `css` `chart.js` `pwa`
 
@@ -67,7 +68,7 @@ Multi-mode PWA calculator combining standard, scientific, unit conversion, and A
 
 ### Student Manager
 
-Browser-based student records system featuring full CRUD, attendance tracking, dark mode, search/filter, CSV export, and localStorage persistence.
+Browser-based student records system with full CRUD, attendance tracking, dark mode, search/filter, CSV export, and localStorage persistence.
 
 `javascript` `html` `css`
 
@@ -101,7 +102,21 @@ Browser-based student records system featuring full CRUD, attendance tracking, d
 
 ---
 
+## portfolio
+
+I built a portfolio site showcasing my work, skills, and experience.
+
+[**Explore my portfolio →**](https://axisakash.github.io/My_Portfolio/#home)
+
+---
+
 <p align="center">
+  <sub>I'm always open to collaboration and interesting conversations.</sub>
+  <br><br>
+  <a href="https://axisakash.github.io/My_Portfolio/#home">portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/rakibul-islam-akash-2a0054347/">linkedin</a> &nbsp;·&nbsp;
+  <a href="mailto:rakibulislamakash40@gmail.com">email</a>
+  <br><br>
   <sub>American International University-Bangladesh · Dhaka, Bangladesh</sub>
   <br>
   <sub>2026</sub>
