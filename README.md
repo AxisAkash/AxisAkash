@@ -6,12 +6,12 @@
   <a href="https://axisakash.github.io/My_Portfolio/#home"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=astro&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rakibul-islam-akash-2a0054347/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://github.com/AxisAkash"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="mailto:rakibulislamakash40@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AxisAkash&style=flat-square&color=6366F1&label=Views" alt="Profile Views" />
+  <a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>&nbsp;&nbsp;
+  <a href="mailto:rakibulislamakash40@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  building production software for mobile, web, and beyond
+  Mobile-first Software Engineer building production-ready React Native applications with offline-first architecture and practical AI integration.
 </p>
 
 <br/>
@@ -23,7 +23,7 @@
 ## <samp>about</samp>
 
 <p align="center">
-  CS student at AIUB. I build production mobile apps with <b>React Native</b> and <b>Expo</b>, work across the full stack with <b>PHP</b> backends, and explore <b>AI/ML</b> applications. I care about clean architecture, reliable code, and software that ships on time.
+  CS student at AIUB building production mobile apps with <b>React Native</b> and <b>Expo</b>. Experienced across the full stack with <b>PHP</b> backends and practical <b>AI/ML</b> integration. Focused on clean architecture, offline-first design, and reliable code that ships on schedule.
 </p>
 
 <br/>
@@ -44,7 +44,7 @@
       <br/><br/>
       <b>OfflineFinanceManager</b>
       <br/>
-      <sub>Local-first finance tracker for Bangladesh</sub>
+      <sub>Local-first finance tracker with offline SQLite, biometric auth, and push notifications</sub>
       <br/><br/>
     </td>
     <td width="50%" align="center">
@@ -53,7 +53,7 @@
       <br/><br/>
       <b>React Native & Expo</b>
       <br/>
-      <sub>Cross-platform apps with SQLite, biometric auth</sub>
+      <sub>Cross-platform apps with native modules, secure auth, and SQLite optimization</sub>
       <br/><br/>
     </td>
   </tr>
@@ -62,18 +62,18 @@
       <br/>
       <img src="https://img.shields.io/badge/-AI%20%26%20ML-8B5CF6?style=for-the-badge" alt="AI & ML" />
       <br/><br/>
-      <b>Practical AI Integration</b>
+      <b>On-Device ML & AI Features</b>
       <br/>
-      <sub>Exploring ML patterns for mobile platforms</sub>
+      <sub>TensorFlow Lite, ML Kit, and on-device inference for mobile applications</sub>
       <br/><br/>
     </td>
     <td width="50%" align="center">
       <br/>
       <img src="https://img.shields.io/badge/-LEARNING-6366F1?style=for-the-badge" alt="Learning" />
       <br/><br/>
-      <b>Cloud & Backend</b>
+      <b>React Native Performance</b>
       <br/>
-      <sub>Cloud architecture, backend engineering, open source</sub>
+      <sub>Hermes optimization, native module bridging, bundle size reduction</sub>
       <br/><br/>
     </td>
   </tr>
@@ -89,29 +89,21 @@
 
 <br/>
 
+<!-- Flagship Project -->
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Car Rent Management</h3>
-      <sub>PHP MVC platform for vehicle rentals</sub>
+    <td width="100%" valign="top">
+      <br/>
+      <img src="https://placehold.co/800x300/1F2937/6366F1?text=OfflineFinanceManager&font=montserrat" alt="Offline Finance Manager" width="100%" />
+      <!-- TODO: Replace placeholder with actual project screenshot or demo GIF -->
       <br/><br/>
-      Admin and user dashboards, car CRUD, order/invoice/payment processing, blog module, Chart.js analytics. Built with PHP 8, MySQL, PDO prepared statements.
-      <br/><br/>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-      </p>
-      <p>
-        <a href="https://github.com/AxisAkash/Car-Rent-Management"><img src="https://img.shields.io/badge/source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-        <a href="https://car-rental-system.fwh.is/?i=1"><img src="https://img.shields.io/badge/live%20demo-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>OfflineFinanceManager</h3>
+      <h3>OfflineFinanceManager <img src="https://img.shields.io/badge/-FLAGSHIP-6366F1?style=flat-square" alt="Flagship" /></h3>
       <sub>Local-first finance tracker for Bangladesh</sub>
       <br/><br/>
-      React Native + Expo app with biometric auth, transaction management, push notifications, offline SQLite storage. Designed for markets with unreliable connectivity.
+      React Native + Expo app with biometric authentication, transaction management, push notifications, and offline-first SQLite storage. Designed for markets with unreliable connectivity — ensuring financial data is always available, always local.
+      <br/><br/>
+      <b>Highlights</b><br/>
+      <sub>Offline-first architecture &bull; Secure biometric authentication &bull; Local SQLite storage &bull; Cross-platform (iOS & Android) &bull; Push notification system</sub>
       <br/><br/>
       <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -125,12 +117,47 @@
       </p>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<table>
   <tr>
     <td width="50%" valign="top">
+      <br/>
+      <img src="https://placehold.co/400x200/1F2937/777BB4?text=Car+Rent+Management&font=montserrat" alt="Car Rent Management" width="100%" />
+      <!-- TODO: Replace placeholder with actual project screenshot or demo GIF -->
+      <br/><br/>
+      <h3>Car Rent Management</h3>
+      <sub>PHP MVC platform for vehicle rentals</sub>
+      <br/><br/>
+      PHP MVC platform featuring role-based admin/user dashboards, car CRUD, order/invoice/payment processing, blog module, and Chart.js analytics. Built with PHP 8, MySQL, and PDO prepared statements for secure database access.
+      <br/><br/>
+      <b>Highlights</b><br/>
+      <sub>Role-based dashboards &bull; Secure PDO prepared statements &bull; Chart.js analytics &bull; Full order-to-payment workflow</sub>
+      <br/><br/>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+      </p>
+      <p>
+        <a href="https://github.com/AxisAkash/Car-Rent-Management"><img src="https://img.shields.io/badge/source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
+        <a href="https://car-rental-system.fwh.is/?i=1"><img src="https://img.shields.io/badge/Visit%20Application-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Visit Application" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://placehold.co/400x200/1F2937/61DAFB?text=Portfolio+Site&font=montserrat" alt="Portfolio Site" width="100%" />
+      <!-- TODO: Replace placeholder with actual project screenshot or demo GIF -->
+      <br/><br/>
       <h3>Portfolio Site</h3>
       <sub>Modern developer portfolio with dark/light mode</sub>
       <br/><br/>
-      Responsive SPA built with React, Vite, TypeScript, Tailwind CSS, shadcn/ui, and Framer Motion. Features animated transitions, Recharts visualization, TanStack Query.
+      Responsive SPA with dark/light mode built with React, Vite, TypeScript, Tailwind CSS, shadcn/ui, and Framer Motion. Features animated page transitions, Recharts data visualizations, and TanStack Query for efficient data fetching.
+      <br/><br/>
+      <b>Highlights</b><br/>
+      <sub>Animated Framer Motion transitions &bull; Dark/light mode theming &bull; Recharts visualizations &bull; TanStack Query data fetching</sub>
       <br/><br/>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -140,14 +167,23 @@
       </p>
       <p>
         <a href="https://github.com/AxisAkash/AxisAkash_Portfolio"><img src="https://img.shields.io/badge/source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-        <a href="https://axisakash.github.io/My_Portfolio/#home"><img src="https://img.shields.io/badge/live%20demo-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://axisakash.github.io/My_Portfolio/#home"><img src="https://img.shields.io/badge/Open%20Website-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Open Website" /></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
+      <br/>
+      <img src="https://placehold.co/400x200/1F2937/F7DF1E?text=Digital+Currency+Converter&font=montserrat" alt="Digital Currency Converter" width="100%" />
+      <!-- TODO: Replace placeholder with actual project screenshot or demo GIF -->
+      <br/><br/>
       <h3>Digital Currency Converter</h3>
       <sub>PWA with live exchange rates</sub>
       <br/><br/>
-      Progressive web app with real-time conversion, offline service worker, conversion history, CSV export. Glassmorphic UI. Pure vanilla JavaScript — zero frameworks.
+      Progressive web app with real-time exchange rate conversion, offline service worker caching, conversion history tracking, and CSV export. Glassmorphic UI — pure vanilla JavaScript, zero framework dependencies.
+      <br/><br/>
+      <b>Highlights</b><br/>
+      <sub>Offline service worker caching &bull; Real-time exchange rates &bull; CSV data export &bull; Zero-dependency architecture</sub>
       <br/><br/>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -155,16 +191,21 @@
       </p>
       <p>
         <a href="https://github.com/AxisAkash/Digital-Currency-Converter"><img src="https://img.shields.io/badge/source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-        <a href="https://AxisAkash.github.io/Digital-Currency-Converter"><img src="https://img.shields.io/badge/live%20demo-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://AxisAkash.github.io/Digital-Currency-Converter"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>Ai Calculator</h3>
+      <br/>
+      <img src="https://placehold.co/400x200/1F2937/FF6384?text=AI+Calculator&font=montserrat" alt="AI Calculator" width="100%" />
+      <!-- TODO: Replace placeholder with actual project screenshot or demo GIF -->
+      <br/><br/>
+      <h3>AI Calculator</h3>
       <sub>Multi-mode calculator with AI problem solver</sub>
       <br/><br/>
-      Standard, scientific, unit conversion, and AI-assisted solving modes with step-by-step solutions. PWA-ready with glassmorphic design and Chart.js integration.
+      Multi-mode calculator with standard, scientific, unit conversion, and AI-assisted solving modes that provide step-by-step solutions. PWA-ready application with glassmorphic design and Chart.js integration.
+      <br/><br/>
+      <b>Highlights</b><br/>
+      <sub>AI step-by-step problem solver &bull; Multi-mode input (standard, scientific, conversion) &bull; PWA support &bull; Chart.js visualization</sub>
       <br/><br/>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -173,14 +214,23 @@
       </p>
       <p>
         <a href="https://github.com/AxisAkash/Ai_Calculator"><img src="https://img.shields.io/badge/source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-        <a href="https://AxisAkash.github.io/Ai_Calculator"><img src="https://img.shields.io/badge/live%20demo-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://AxisAkash.github.io/Ai_Calculator"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
+      <br/>
+      <img src="https://placehold.co/400x200/1F2937/239120?text=Student+Manager&font=montserrat" alt="Student Manager" width="100%" />
+      <!-- TODO: Replace placeholder with actual project screenshot or demo GIF -->
+      <br/><br/>
       <h3>Student Manager</h3>
       <sub>Browser-based student records system</sub>
       <br/><br/>
-      Full CRUD with attendance tracking, dark mode, search/filter, CSV export, and localStorage persistence. Zero server dependencies — pure client-side SPA.
+      Browser-based student records system with full CRUD operations, attendance tracking, dark mode, search/filter, CSV export, and localStorage persistence. Pure client-side SPA — zero server dependencies.
+      <br/><br/>
+      <b>Highlights</b><br/>
+      <sub>Full CRUD operations &bull; Attendance tracking &bull; CSV export &bull; localStorage persistence &bull; Zero server dependencies</sub>
       <br/><br/>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -189,8 +239,11 @@
       </p>
       <p>
         <a href="https://github.com/AxisAkash/Student_Manager"><img src="https://img.shields.io/badge/source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
-        <a href="https://AxisAkash.github.io/Student_Manager"><img src="https://img.shields.io/badge/live%20demo-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://AxisAkash.github.io/Student_Manager"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Intentionally empty for layout balance -->
     </td>
   </tr>
 </table>
@@ -293,6 +346,41 @@
 
 <br/>
 
+## <samp>open source</samp>
+
+<br/>
+
+<p align="center">
+  <b>Current Interests</b><br/>
+  <sub>React Native ecosystem &bull; Expo tooling &bull; Offline-first databases (SQLite, WatermelonDB) &bull; Mobile ML (TensorFlow Lite, ML Kit)</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <b>Contribution Goals</b><br/>
+  <sub>Bug fixes and documentation for Expo SDK &bull; Performance improvements for React Native libraries &bull; Mobile testing utilities &bull; Local-first data sync libraries</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <b>Technologies I Want to Contribute To</b><br/>
+  <sub>Expo &bull; React Native &bull; WatermelonDB &bull; TanStack Query &bull; tRPC</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>Exploring Good First Issues. Open to collaboration on mobile and full-stack projects.</sub>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
 ## <samp>connect</samp>
 
 <br/>
@@ -301,11 +389,16 @@
   <a href="https://axisakash.github.io/My_Portfolio/#home"><img src="https://img.shields.io/badge/Portfolio-axisakash.github.io-6366F1?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rakibul-islam-akash-2a0054347/"><img src="https://img.shields.io/badge/LinkedIn-rakibul--islam--akash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://github.com/AxisAkash"><img src="https://img.shields.io/badge/GitHub-AxisAkash-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>&nbsp;&nbsp;
   <a href="mailto:rakibulislamakash40@gmail.com"><img src="https://img.shields.io/badge/Email-rakibulislamakash40%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <sub>American International University-Bangladesh · Dhaka, Bangladesh</sub>
+  <img src="https://komarev.com/ghpvc/?username=AxisAkash&style=flat-square&color=6366F1&label=Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <sub>American International University-Bangladesh &middot; Dhaka, Bangladesh</sub>
   <br/>
   <sub>2026</sub>
 </p>
