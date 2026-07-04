@@ -6,7 +6,6 @@
   <a href="https://axisakash.github.io/My_Portfolio/#home"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=astro&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rakibul-islam-akash-2a0054347/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://github.com/AxisAkash"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>&nbsp;&nbsp;
   <a href="mailto:rakibulislamakash40@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -89,14 +88,10 @@
 
 <br/>
 
-<!-- Flagship Project -->
 <table>
   <tr>
     <td width="100%" valign="top">
       <br/>
-      <img src="https://placehold.co/800x300/1F2937/6366F1?text=OfflineFinanceManager&font=montserrat" alt="Offline Finance Manager" width="100%" />
-      <!-- TODO: Replace placeholder with actual project screenshot or demo GIF -->
-      <br/><br/>
       <h3>OfflineFinanceManager <img src="https://img.shields.io/badge/-FLAGSHIP-6366F1?style=flat-square" alt="Flagship" /></h3>
       <sub>Local-first finance tracker for Bangladesh</sub>
       <br/><br/>
@@ -125,9 +120,6 @@
   <tr>
     <td width="50%" valign="top">
       <br/>
-      <img src="https://placehold.co/400x200/1F2937/777BB4?text=Car+Rent+Management&font=montserrat" alt="Car Rent Management" width="100%" />
-      <!-- TODO: Replace placeholder with actual project screenshot or demo GIF -->
-      <br/><br/>
       <h3>Car Rent Management</h3>
       <sub>PHP MVC platform for vehicle rentals</sub>
       <br/><br/>
@@ -148,9 +140,6 @@
     </td>
     <td width="50%" valign="top">
       <br/>
-      <img src="https://placehold.co/400x200/1F2937/61DAFB?text=Portfolio+Site&font=montserrat" alt="Portfolio Site" width="100%" />
-      <!-- TODO: Replace placeholder with actual project screenshot or demo GIF -->
-      <br/><br/>
       <h3>Portfolio Site</h3>
       <sub>Modern developer portfolio with dark/light mode</sub>
       <br/><br/>
@@ -174,9 +163,6 @@
   <tr>
     <td width="50%" valign="top">
       <br/>
-      <img src="https://placehold.co/400x200/1F2937/F7DF1E?text=Digital+Currency+Converter&font=montserrat" alt="Digital Currency Converter" width="100%" />
-      <!-- TODO: Replace placeholder with actual project screenshot or demo GIF -->
-      <br/><br/>
       <h3>Digital Currency Converter</h3>
       <sub>PWA with live exchange rates</sub>
       <br/><br/>
@@ -196,9 +182,6 @@
     </td>
     <td width="50%" valign="top">
       <br/>
-      <img src="https://placehold.co/400x200/1F2937/FF6384?text=AI+Calculator&font=montserrat" alt="AI Calculator" width="100%" />
-      <!-- TODO: Replace placeholder with actual project screenshot or demo GIF -->
-      <br/><br/>
       <h3>AI Calculator</h3>
       <sub>Multi-mode calculator with AI problem solver</sub>
       <br/><br/>
@@ -219,11 +202,8 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <br/>
-      <img src="https://placehold.co/400x200/1F2937/239120?text=Student+Manager&font=montserrat" alt="Student Manager" width="100%" />
-      <!-- TODO: Replace placeholder with actual project screenshot or demo GIF -->
-      <br/><br/>
       <h3>Student Manager</h3>
       <sub>Browser-based student records system</sub>
       <br/><br/>
@@ -241,9 +221,6 @@
         <a href="https://github.com/AxisAkash/Student_Manager"><img src="https://img.shields.io/badge/source-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
         <a href="https://AxisAkash.github.io/Student_Manager"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Intentionally empty for layout balance -->
     </td>
   </tr>
 </table>
@@ -351,28 +328,7 @@
 <br/>
 
 <p align="center">
-  <b>Current Interests</b><br/>
-  <sub>React Native ecosystem &bull; Expo tooling &bull; Offline-first databases (SQLite, WatermelonDB) &bull; Mobile ML (TensorFlow Lite, ML Kit)</sub>
-</p>
-
-<br/>
-
-<p align="center">
-  <b>Contribution Goals</b><br/>
-  <sub>Bug fixes and documentation for Expo SDK &bull; Performance improvements for React Native libraries &bull; Mobile testing utilities &bull; Local-first data sync libraries</sub>
-</p>
-
-<br/>
-
-<p align="center">
-  <b>Technologies I Want to Contribute To</b><br/>
-  <sub>Expo &bull; React Native &bull; WatermelonDB &bull; TanStack Query &bull; tRPC</sub>
-</p>
-
-<br/>
-
-<p align="center">
-  <sub>Exploring Good First Issues. Open to collaboration on mobile and full-stack projects.</sub>
+  <sub>Interested in contributing to the <b>React Native</b> and <b>Expo</b> ecosystem — tooling, documentation, and community-driven mobile libraries.</sub>
 </p>
 
 <br/>
@@ -389,7 +345,6 @@
   <a href="https://axisakash.github.io/My_Portfolio/#home"><img src="https://img.shields.io/badge/Portfolio-axisakash.github.io-6366F1?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rakibul-islam-akash-2a0054347/"><img src="https://img.shields.io/badge/LinkedIn-rakibul--islam--akash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://github.com/AxisAkash"><img src="https://img.shields.io/badge/GitHub-AxisAkash-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>&nbsp;&nbsp;
   <a href="mailto:rakibulislamakash40@gmail.com"><img src="https://img.shields.io/badge/Email-rakibulislamakash40%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
